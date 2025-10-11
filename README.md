@@ -1,3 +1,3 @@
 # Search country bases colleges #
 
-simply Use of HTML , CSS and JavaScript, APIs.
+Simply  HTML , CSS and JavaScript have been used in this and APIs.
